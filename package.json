@@ -1,0 +1,14 @@
+{
+  "name": "dh-heroes",
+  "version": "1.0.0",
+  "description": "información de las ​Heroínas​ y los ​HéroesTecnológicos​ más representativos del ámbito de la programación",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tomas Lopez Turconi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
